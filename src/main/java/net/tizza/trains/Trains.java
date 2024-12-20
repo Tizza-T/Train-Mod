@@ -52,7 +52,7 @@ public class Trains {
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES){
             event.accept(ModItems.TICKET);
-
+            event.accept(ModItems.UNDERBELLY_125);
         }
     }
 
