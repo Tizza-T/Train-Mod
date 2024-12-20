@@ -1,4 +1,13 @@
 {
   "item.sebstrainstime.ticket": "Ticket",
-  "item.sebstrainstime.underbelly_125": "Underbelly 125"
+  "item.sebstrainstime.underbelly_125": "Underbelly 125",
+  "item.sebstrainstime.mid_125": "Middle 125",
+  "item.sebstrainstime.top_125": "Top 125",
+  "item.sebstrainstime.steel": "Steel",
+  "item.sebstrainstime.red_steel": "Red Steel",
+  "item.sebstrainstime.black_steel": "Black Steel",
+  "item.sebstrainstime.white_steel": "White Steel",
+  "item.sebstrainstime.yellow_125": "Yellow Steel",
+  "item.sebstrainstime.blue_125": "Blue Steel",
+  "item.sebstrainstime.navy_125": "Navy Steel"
 }

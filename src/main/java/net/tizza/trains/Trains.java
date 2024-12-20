@@ -53,6 +53,15 @@ public class Trains {
         if(event.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES){
             event.accept(ModItems.TICKET);
             event.accept(ModItems.UNDERBELLY_125);
+            event.accept(ModItems.MID_125);
+            event.accept(ModItems.TOP_125);
+            event.accept(ModItems.STEEL);
+            event.accept(ModItems.RED_STEEL);
+            event.accept(ModItems.BLACK_STEEL);
+            event.accept(ModItems.WHITE_STEEL);
+            event.accept(ModItems.YELLOW_STEEL);
+            event.accept(ModItems.BLUE_STEEL);
+            event.accept(ModItems.NAVY_STEEL);
         }
     }
 
